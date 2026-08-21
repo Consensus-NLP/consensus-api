@@ -1,6 +1,6 @@
 <a href="https://consensus.app"><img src="assets/logo.png" alt="Consensus" width="200" /></a>
 
-# Consensus API
+# Consensus API | API for Scientific Research
 
 [![API Reference](https://img.shields.io/badge/docs-API%20reference-068EF1)](https://docs.consensus.app/reference/v1_search)
 [![Get access](https://img.shields.io/badge/get%20access-self--serve-3BCDAA)](https://consensus.app/home/api/)
