@@ -1,3 +1,5 @@
+<a href="https://consensus.app"><img src="assets/logo.png" alt="Consensus" width="200" /></a>
+
 # Consensus API
 
 [![API Reference](https://img.shields.io/badge/docs-API%20reference-068EF1)](https://docs.consensus.app/reference/v1_search)
